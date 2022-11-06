@@ -1,0 +1,25 @@
+{
+  "name": "imax_ticket_booking_system",
+  "version": "1.0.0",
+  "description": "A CLI to help book a movie ticket at IMAX, Ottawa.",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "imax": "./src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "commander": "^9.4.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4",
+    "json-server": "^0.17.0",
+    "moment": "^2.29.4",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
+}
