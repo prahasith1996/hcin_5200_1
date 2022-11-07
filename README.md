@@ -4,7 +4,7 @@
 
 1. Open a terminal (Terminal 1) and run the below npm command to install JSON Server globally 
 ```
-$ npm install -g json-server
+npm install -g json-server
 ```
 
 2. After installation, change the directory to the project folder
@@ -24,7 +24,7 @@ cd /path/to/folder
 
 5. Run the below command to install all the necessary packages and dependencies
 ```
-npm init
+npm install
 ```
 
 6. Run the below command to install the app globally from local source code.

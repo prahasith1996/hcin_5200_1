@@ -1,12 +1,5 @@
 #!/usr/bin/env node
 
-//what movies
-//what timings - (any day)
-//seats available - (any day)
-//book = name - date - screen - time - seats  
-
-// json-server global - json-server --watch database.json
-
 import inquirer from 'inquirer';
 import moment from 'moment';
 import fetch from 'node-fetch';
