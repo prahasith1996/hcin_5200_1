@@ -47,4 +47,4 @@ imax b --help
 imax b -mc bpwf -dt 11/10 -sc s1 -st 4 -sa front -sn i5 i6 i7
 ```
 
-
+9. copy paste data from 'reset-database.json' to 'database.json' on every friday, to reset the db
